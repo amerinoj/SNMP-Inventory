@@ -50,7 +50,8 @@ Example:DeviceList.txt
 10.1.1.3
 ```
 ---------------------------------------------------------------------
-*getserialV2*
+**getserialV2**
+
 Run getserialV2 and see help
 ```
 ./getserialV2.sh 
@@ -69,7 +70,8 @@ Example parameters
 ```
 
 ---------------------------------------------------------------------
-*getserialV3*
+**getserialV3**
+
 Run getserialV2 and see help
 ```
 ./getserialV3.sh 

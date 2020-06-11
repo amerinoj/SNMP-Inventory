@@ -10,7 +10,7 @@ To run the script is mandatory had in your distro installed net-snmp package:htt
 Output example
 ```
 Device_IP		Hostname	Device Description			Device Type		Serial Number	Model Number	Othern
-10.1.1.1		Device_name Transceiver(slot:3-port:11)	module			XXXXS-NXXXXX 	SFP-10G-SR-S	
+10.1.1.1		Device_name	Transceiver(slot:3-port:11)	module			XXXXS-NXXXXX 	SFP-10G-SR-S	
 10.1.1.1		Device_name	Transceiver(slot:3-port:41)	module			XXXXS-NXXXXX 	SFP-10G-SR-S	
 10.1.1.1		Device_name	Transceiver(slot:3-port:44)	module			XXXXS-NXXXXX 	SFP-10G-SR-S	
 10.1.1.1		Device_name	Transceiver(slot:3-port:3)	module			XXXXS-NXXXXX 	SFP-10G-SR	
